@@ -1,0 +1,100 @@
+Players in an ice hockey team
+6
+Countries in australasia
+14
+Value of green ball in snooker
+3
+Number of pounds in a stone
+14
+Value of outer bull in darts
+25
+Legs on a scorpion
+8
+Fingers on a spider monkey's hand
+4
+Winners jerseys in the Tour de France
+5
+Sides on a 50p coin
+7
+Legal voting age in South Korea
+19
+Furlongs in a mile
+8
+Number 1 singles by the Beatles
+17
+UK Prime ministers this century
+5
+Softmints in a standard packet
+13
+Moons of Uranus
+27
+Oceans on Earth
+5
+World cup finals Brazil have played in
+7
+Hands on a clock
+3
+Bits in a nibble
+4
+UK modern pentathlon medals at Tokyo 2021
+2
+English hills above 3000ft
+6
+Countries the Danube flows through
+10
+Actors to have played Dr Who
+13
+Novels by Charles Dickens
+15
+Symphonies by Beethoven
+9
+Cities in Luxembourg
+12
+UK Chancellor's house number
+11
+Legal driving age in Zimbabwe
+16
+Length of a basketball court in metres
+28
+Gases on the periodic table (at room temperature and pressure)
+11
+Episodes of The Sopranos
+86
+Years between world war 1 and 2
+21
+The answer to Life, the Universe and Everything
+42
+Teams to have played in the premier league (ever)
+50
+UK bronze medals won at Tokyo Olympics
+45
+UN member states in Asia
+49
+Mountains above 8000 metres in the world
+14
+Longest town name in Wales (in letters)
+58
+Languages which are written from right to left
+12
+Olympic swimming pool (in meters)
+50
+Hearts in an octopus
+3
+SuperBowl Rings owned by Tom Brady 
+7
+Championship rings owned by Micheal Jordan 
+6
+Number of NFL teams who have never won a Super Bowl
+12
+World Championships won by  Micheal Schumacher
+7
+Amount of Great Lakes in North America
+5
+Apollo Mission  which landed on the Moon in 1969
+11
+Cylinders in the Lamborghini Aventador S with the 6.5L engine 
+12
+Times England has recieved nul points in Eurovision history
+2
+Total time zones in the world
+24
